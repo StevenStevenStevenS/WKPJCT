@@ -1,0 +1,9 @@
+C:\Users\Steven\Games & Programming Stuff\New Game\.mono\temp\obj\Debug\New Game.csproj.AssemblyReference.cache
+C:\Users\Steven\Games & Programming Stuff\New Game\.mono\temp\obj\Debug\New Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\Games & Programming Stuff\New Game\.mono\temp\obj\Debug\New Game.AssemblyInfoInputs.cache
+C:\Users\Steven\Games & Programming Stuff\New Game\.mono\temp\obj\Debug\New Game.AssemblyInfo.cs
+C:\Users\Steven\Games & Programming Stuff\New Game\.mono\temp\obj\Debug\New Game.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Games & Programming Stuff\New Game\.mono\temp\bin\Debug\New Game.dll
+C:\Users\Steven\Games & Programming Stuff\New Game\.mono\temp\bin\Debug\New Game.pdb
+C:\Users\Steven\Games & Programming Stuff\New Game\.mono\temp\obj\Debug\New Game.dll
+C:\Users\Steven\Games & Programming Stuff\New Game\.mono\temp\obj\Debug\New Game.pdb
