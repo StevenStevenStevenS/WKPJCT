@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/spatial-fugu-vibes-main-version-01-13-3432.mp3-04ba349d5e9633167baea2166b208c1c.mp3str"
+
+[deps]
+
+source_file="res://music & sfx/spatial-fugu-vibes-main-version-01-13-3432.mp3"
+dest_files=[ "res://.import/spatial-fugu-vibes-main-version-01-13-3432.mp3-04ba349d5e9633167baea2166b208c1c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

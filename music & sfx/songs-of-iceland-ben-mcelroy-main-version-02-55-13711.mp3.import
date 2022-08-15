@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/songs-of-iceland-ben-mcelroy-main-version-02-55-13711.mp3-503035a7317b6280369e5b1a19ada1ac.mp3str"
+
+[deps]
+
+source_file="res://music & sfx/songs-of-iceland-ben-mcelroy-main-version-02-55-13711.mp3"
+dest_files=[ "res://.import/songs-of-iceland-ben-mcelroy-main-version-02-55-13711.mp3-503035a7317b6280369e5b1a19ada1ac.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

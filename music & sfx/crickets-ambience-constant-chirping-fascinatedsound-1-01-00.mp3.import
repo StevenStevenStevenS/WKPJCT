@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/crickets-ambience-constant-chirping-fascinatedsound-1-01-00.mp3-24b64ca5cb2854f8c5ded4dc94330043.mp3str"
+
+[deps]
+
+source_file="res://music & sfx/crickets-ambience-constant-chirping-fascinatedsound-1-01-00.mp3"
+dest_files=[ "res://.import/crickets-ambience-constant-chirping-fascinatedsound-1-01-00.mp3-24b64ca5cb2854f8c5ded4dc94330043.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

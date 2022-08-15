@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/countryside-ambience-at-night-fascinatedsound-1-01-05.mp3-28b90d5ebee60161cb992b76a2a8c037.mp3str"
+
+[deps]
+
+source_file="res://music & sfx/countryside-ambience-at-night-fascinatedsound-1-01-05.mp3"
+dest_files=[ "res://.import/countryside-ambience-at-night-fascinatedsound-1-01-05.mp3-28b90d5ebee60161cb992b76a2a8c037.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sleep-and-create-moon-ben-mcelroy-main-version-05-37-13736.mp3-89ba52fece07884168b00520c99f4a96.mp3str"
+
+[deps]
+
+source_file="res://music & sfx/sleep-and-create-moon-ben-mcelroy-main-version-05-37-13736.mp3"
+dest_files=[ "res://.import/sleep-and-create-moon-ben-mcelroy-main-version-05-37-13736.mp3-89ba52fece07884168b00520c99f4a96.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

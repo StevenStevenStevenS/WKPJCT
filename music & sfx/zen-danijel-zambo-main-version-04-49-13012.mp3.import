@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/zen-danijel-zambo-main-version-04-49-13012.mp3-f6d816b2cfa735b4cf315f947b91c6ce.mp3str"
+
+[deps]
+
+source_file="res://music & sfx/zen-danijel-zambo-main-version-04-49-13012.mp3"
+dest_files=[ "res://.import/zen-danijel-zambo-main-version-04-49-13012.mp3-f6d816b2cfa735b4cf315f947b91c6ce.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
